@@ -1,4 +1,4 @@
-![Logo Sistemas](http://imgh.us/sistemas.svg)
+![Logo Sistemas](http://imgh.us/logo-sistemas.svg)
 
 # Segundo año de Sistemas
 
